@@ -39,7 +39,3 @@ Contributions are welcome! Please follow these steps:
 ## Credits
 
 This project was developed by [Kushagra Singh Gaur](https://github.com/Kushagra963-lab).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
